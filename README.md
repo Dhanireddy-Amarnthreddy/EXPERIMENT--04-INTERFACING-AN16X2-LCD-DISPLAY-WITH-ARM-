@@ -174,7 +174,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ~~~
-Develped by:D.Amarnath REddy
+Develped by:D.Amarnath Reddy
 Registration no:212221240012
 ~~~
 ```
@@ -259,7 +259,11 @@ void assert_failed(uint8_t *file, uint32_t line){}
 
 
 ## Output screen shots of proteus  :
+
  <img width="317" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94165103/b27e5e70-ca84-428f-a952-31ddbe13b284">
+
+
+ 
 
  <img width="637" alt="p4" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94165103/368c69f0-083b-49fe-beb7-dea0cdf4dd9f">
 
